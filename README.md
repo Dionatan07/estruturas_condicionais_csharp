@@ -1,5 +1,5 @@
 <h2>
-C# <a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+<a href="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="64px" height="64px" alt="C#"></a>
 Curso de C#
 </h2>
